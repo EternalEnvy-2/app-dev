@@ -17,8 +17,6 @@ Arcane is an animated series on Netflix based on the game League of Legends. It'
 3. Vander
 4. Jinx
 5. Jayce
-   - the inventor of hextech
-   - his friendship with Viktor is great
 6. Silco
 
 ## Why I like it
@@ -32,15 +30,6 @@ Arcane is an animated series on Netflix based on the game League of Legends. It'
 |--------|------|----------|
 | 1      | 2021 | 9        |
 | 2      | 2024 | 9        |
-
-## Watch progress
-- [x] Season 1
-- [x] Season 2
-- [ ] Rewatch from the start
-
-![Arcane](https://placehold.co/400x150?text=Arcane)
-
-More info here: [Arcane on Netflix](https://www.netflix.com/)
 
 ## My rating
 I give it `10/10`.
